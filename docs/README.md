@@ -11,13 +11,17 @@ These documents help teams:
 - release features with predictable quality checks
 - capture learning and improve the process over time
 
-## Project lifecycle at a glance
+## Lifecycle and team outputs
 
-1. Initiation — validate the need, align stakeholders, and decide whether to move forward.
-2. Planning — turn the approved idea into a scoped backlog, timeline, and dependencies.
-3. Execution — deliver in iterations with transparency, QA, and progress tracking.
-4. Release & Deployment — prepare, validate, ship, and support the release.
-5. Retrospective & Improvement — capture learnings and turn them into action.
+Use this as a quick guide to the work products and hand-offs at each stage. The linked guides contain the detailed checklists and templates.
+
+| Stage | What the team does and produces | Guide |
+| --- | --- | --- |
+| Initiation | Validate the problem and measurable outcomes; align stakeholders; prepare a project one-pager, initial risks, and a go/no-go decision. | [Project Initiation](./octoacme-project-initiation.md) |
+| Planning | Break approved work into a prioritized backlog with acceptance criteria and estimates; agree on the Definition of Done, dependencies, milestones, and release plan. | [Project Planning](./octoacme-project-planning.md) |
+| Execution | Deliver in small increments using the project board; keep progress and blockers visible, validate work through testing and review, and update risks and stakeholder status. | [Execution & Tracking](./octoacme-execution-and-tracking.md) and [Risk & Communication](./octoacme-risks-and-communication.md) |
+| Release & Deployment | Confirm acceptance criteria, CI and security checks, release notes, and rollback plans; deploy, smoke-test, verify, and communicate the release. | [Release & Deployment](./octoacme-release-and-deployment.md) |
+| Retrospective & Improvement | Capture what went well and what to improve; assign a small number of owned, time-bound actions and track them in the backlog or issues. | [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) |
 
 ## Documentation index
 
